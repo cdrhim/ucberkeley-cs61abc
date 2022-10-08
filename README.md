@@ -8,7 +8,7 @@ For easier querying without searching each course.
 - [cs61c](##cs61c): Machine Structures
 
 ## cs61a
-![cs61a](./cs61a/summer2020/00-All_Lectures_Combined_(1~26).pdf){width=65%}
+![cs61a](./cs61a/summer2020/00-All_Lectures_Combined_(1~26).pdf)
 
 
 ## cs61b
