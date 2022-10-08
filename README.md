@@ -7,9 +7,9 @@
 💾 Repository: [link](https://www.github.com/cdrhim/ucberkeley-cs61abc/)
 
 For easier querying without searching each course.
-- [cs61a](##cs61a): The Structure and Interpretation of Computer Programs
-- [cs61b](##cs61b): Data Structures
-- [cs61c](##cs61c): Machine Structures
+- [cs61a](#cs61a): The Structure and Interpretation of Computer Programs
+- [cs61b](#cs61b): Data Structures
+- [cs61c](#cs61c): Machine Structures
 
 ## cs61a
 <!--![cs61a](./cs61a/summer2020/00-All_Lectures_Combined_(1~26).pdf)-->
