@@ -2,7 +2,7 @@
 
 # Collection of cs61a, cs61b, and cs61c lecture notes
 
-🌍 Website: [link](https://cdrhim.github.io/ucberkeley-cs61abc/)\n
+🌍 Website: [link](https://cdrhim.github.io/ucberkeley-cs61abc/) \n
 💾 Repository: [link](https://www.github.com/cdrhim/ucberkeley-cs61abc/)
 
 For easier querying without searching each course.
