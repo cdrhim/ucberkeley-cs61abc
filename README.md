@@ -13,12 +13,12 @@ For easier querying without searching each course.
 
 ## cs61a
 <!--![cs61a](./cs61a/summer2020/00-All_Lectures_Combined_(1~26).pdf)-->
-<object data="./cs61a/summer2020/00-All_Lectures_Combined_(1~26).pdf" type="application/pdf" style="min-height:100vh;width:100%"></object>
+<object data="./cs61a/summer2020/00-All_Lectures_Combined_(1~26).pdf" type="application/pdf" style="min-height: 100vh; width: 100%; pointer-events: none;"></object>
 
 
 ## cs61b
 <!--![cs61b](./cs61b/spring2022/lect0-combined-all.pdf)-->
-<object data="./cs61b/spring2022/lect0-combined-all.pdf" type="application/pdf" style="min-height:100vh;width:100%"></object>
+<object data="./cs61b/spring2022/lect0-combined-all.pdf" type="application/pdf" style="min-height: 100vh; width: 100%; pointer-events: none;"></object>
 
 
 ## cs61c
