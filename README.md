@@ -12,6 +12,6 @@ For easier querying without searching each course.
 
 
 ## cs61b
-
+![cs61b](./cs61b/spring2022/lect0-combined-all.pdf)
 
 ## cs61c
