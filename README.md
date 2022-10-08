@@ -13,10 +13,10 @@ For easier querying without searching each course.
 
 ## cs61a
 <!--![cs61a](./cs61a/summer2020/00-All_Lectures_Combined_(1~26).pdf)-->
-<iframe src="./cs61a/summer2020/00-All_Lectures_Combined_(1~26).pdf" style="min-height:100vh;width:100%" frameborder="0"></iframe>
+<iframe allowfullscreen src="./cs61a/summer2020/00-All_Lectures_Combined_(1~26).pdf" style="position:absolute; top:0; left:0; width:100%; height:100%; border: none; overflow: hidden;"></iframe>
 
 ## cs61b
 <!--![cs61b](./cs61b/spring2022/lect0-combined-all.pdf)-->
-<iframe src="./cs61b/spring2022/lect0-combined-all.pdf" style="min-height:100vh;width:100%" frameborder="0"></iframe>
+<iframe allowfullscreen src="./cs61b/spring2022/lect0-combined-all.pdf" style="position:absolute; top:0; left:0; width:100%; height:100%; border: none; overflow: hidden;"></iframe>
 
 ## cs61c
