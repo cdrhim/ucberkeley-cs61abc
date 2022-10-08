@@ -9,7 +9,7 @@ For easier querying without searching each course.
 
 ## cs61a
 ![cs61a](./cs61a/summer2020/00-All_Lectures_Combined_(1~26).pdf)
-
+<embed src="./cs61a/summer2020/00-All_Lectures_Combined_(1~26).pdf" width="800px" height="2100px" />
 
 ## cs61b
 ![cs61b](./cs61b/spring2022/lect0-combined-all.pdf)
