@@ -13,10 +13,10 @@ For easier querying without searching each course.
 
 ## cs61a
 <!--![cs61a](./cs61a/summer2020/00-All_Lectures_Combined_(1~26).pdf)-->
-<embed src="./cs61a/summer2020/00-All_Lectures_Combined_(1~26).pdf" width="100dw"/>
+<embed src="./cs61a/summer2020/00-All_Lectures_Combined_(1~26).pdf" width="100dw" scale="tofit"/>
 
 ## cs61b
 <!--![cs61b](./cs61b/spring2022/lect0-combined-all.pdf)-->
-<embed src="./cs61b/spring2022/lect0-combined-all.pdf" width="100dw"/>
+<embed src="./cs61b/spring2022/lect0-combined-all.pdf" width="100dw" scale="tofit"/>
 
 ## cs61c
