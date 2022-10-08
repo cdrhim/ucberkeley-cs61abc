@@ -1,8 +1,7 @@
 # Collection of cs61a, cs61b, and cs61c lecture notes
 
-Website: [link](https://cdrhim.github.io/ucberkley-cs61abc/)
-
-Repository: [link](https://www.github.com/cdrhim/uc-berkeley-cs61abc/)
+##### Website: [link](https://cdrhim.github.io/ucberkley-cs61abc/)
+##### Repository: [link](https://www.github.com/cdrhim/uc-berkeley-cs61abc/)
 
 For easier querying without searching each course.
 - [cs61a](##cs61a): The Structure and Interpretation of Computer Programs
