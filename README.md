@@ -1,7 +1,25 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
+<style>
+  body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+  }
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  .light-mode {
+    background-color: white;
+    color: black;
+  }
+</style>
 
 # Collection of cs61a, cs61b, and cs61c lecture notes
+
+<button onclick="darkMode()">Darkmode</button>
+<button onclick="lightMode()">LightMode</button>
 
 🌍 Website: [link](https://cdrhim.github.io/ucberkeley-cs61abc/)\
 💾 Repository: [link](https://www.github.com/cdrhim/ucberkeley-cs61abc/)
