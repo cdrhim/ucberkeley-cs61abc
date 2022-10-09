@@ -4,11 +4,13 @@
   
 # Collection of cs61a, cs61b, and cs61c lecture notes
 
+<!--
 <div align="center">
     <img src="./background.svg" width="400" height="400" alt="css-in-readme">
 </div>\
 <button onclick="darkMode()">Darkmode</button> 
 <button onclick="lightMode()">LightMode</button>
+-->
 
 🌍 Website: [link](https://cdrhim.github.io/ucberkeley-cs61abc/)\
 💾 Repository: [link](https://www.github.com/cdrhim/ucberkeley-cs61abc/)
