@@ -31,3 +31,4 @@ For easier querying on one single website (above for link) without searching eac
 
 
 ## cs61c
+<object data="./cs61c/spring2022/lec00-combined-all.pdf" type="application/pdf" style="min-height: 100vh; width: 100%;"></object>
